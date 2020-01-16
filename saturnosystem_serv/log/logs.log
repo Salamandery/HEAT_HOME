@@ -1,0 +1,57 @@
+2018-12-05 11:53:24,779 FATAL [Thread-6] - Server.Func.ThreadSaturnoSystem.LoggingSys 52 - java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:223)
+	at java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:589)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:564)
+	at Server.Func.ThreadSaturnoSystem.run(ThreadSaturnoSystem.java:79)
+
+2018-12-05 11:55:03,516 FATAL [Thread-6] - Server.Func.ThreadSaturnoSystem.LoggingSys 52 - java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:223)
+	at java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:589)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:564)
+	at Server.Func.ThreadSaturnoSystem.run(ThreadSaturnoSystem.java:79)
+
+2018-12-05 12:07:33,184 FATAL [Thread-6] - Server.Func.ThreadSaturnoSystem.LoggingSys 52 - java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:223)
+	at java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:589)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:564)
+	at Server.Func.ThreadSaturnoSystem.run(ThreadSaturnoSystem.java:79)
+
+2018-12-05 12:12:41,773 FATAL [Thread-7] - Server.Func.ThreadSaturnoSystem.LoggingSys 52 - java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2338)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2351)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:2822)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:804)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:301)
+	at Server.Func.ThreadSaturnoSystem.run(ThreadSaturnoSystem.java:88)
+
+2018-12-05 12:20:07,445 FATAL [Thread-8] - Server.Func.ThreadSaturnoSystem.LoggingSys 52 - java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2338)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2351)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:2822)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:804)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:301)
+	at Server.Func.ThreadSaturnoSystem.run(ThreadSaturnoSystem.java:88)
+
